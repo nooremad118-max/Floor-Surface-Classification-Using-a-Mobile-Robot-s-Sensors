@@ -1,2 +1,2 @@
-# Floor-Surface-Classification-Using-a-Mobile-Robot-s-Sensors
+# FloorSense AI: Surface Recognition for adabtive Robot Navigation
 This research project uses machine learning to classify the surface beneath a mobile robot from sensor data. Time, frequency, and wavelet features are extracted and used to train models such as Random Forest and SVM. Group-based validation tests performance on unseen recordings. The goal is to support future adaptive navigation and motion planning.
